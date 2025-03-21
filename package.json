@@ -7,5 +7,8 @@
     "test": "nodemon index.js"
   },
   "author": "Paweł Zawadzki",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.14.1"
+  }
 }
