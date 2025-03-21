@@ -1,0 +1,11 @@
+{
+  "name": "pgsql_test",
+  "version": "1.0.0",
+  "description": "Test połączenia z pgsql z poziomu node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Paweł Zawadzki",
+  "license": "ISC"
+}
